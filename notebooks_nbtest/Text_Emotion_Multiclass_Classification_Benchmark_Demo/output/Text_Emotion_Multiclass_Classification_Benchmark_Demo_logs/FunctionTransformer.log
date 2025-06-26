@@ -1,0 +1,12 @@
+2025-06-20 10:54:17,420 - INFO - Checking if (data, 3,3) should be added.
+2025-06-20 10:54:17,420 - INFO - Current self.def_set: 
+2025-06-20 10:54:17,420 - INFO - set()
+2025-06-20 10:54:17,420 - INFO - The def_value is:
+2025-06-20 10:54:17,420 - INFO - data_None
+2025-06-20 10:54:17,420 - INFO - (data, 3,3) is not in the self.def_set. Instrumenting
+2025-06-20 18:54:19,620 - INFO - Checking if (data, 3,3) should be added.
+2025-06-20 18:54:19,620 - INFO - Current self.def_set: 
+2025-06-20 18:54:19,620 - INFO - set()
+2025-06-20 18:54:19,620 - INFO - The def_value is:
+2025-06-20 18:54:19,620 - INFO - data_None
+2025-06-20 18:54:19,620 - INFO - (data, 3,3) is not in the self.def_set. Instrumenting

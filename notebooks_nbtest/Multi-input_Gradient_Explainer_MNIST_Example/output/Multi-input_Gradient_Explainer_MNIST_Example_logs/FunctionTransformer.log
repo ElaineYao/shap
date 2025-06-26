@@ -1,0 +1,30 @@
+2025-06-20 10:43:05,803 - INFO - Checking if (len(shap_values), 5,1) should be added.
+2025-06-20 10:43:05,803 - INFO - Current self.def_set: 
+2025-06-20 10:43:05,804 - INFO - set()
+2025-06-20 10:43:05,804 - INFO - The def_value is:
+2025-06-20 10:43:05,804 - INFO - len(shap_values)_None
+2025-06-20 10:43:05,804 - INFO - (len(shap_values), 5,1) is not in the self.def_set. Instrumenting
+2025-06-20 10:43:05,804 - INFO - Checking if (len(shap_values[0]), 6,1) should be added.
+2025-06-20 10:43:05,804 - INFO - Current self.def_set: 
+2025-06-20 10:43:05,804 - INFO - set()
+2025-06-20 10:43:05,804 - INFO - The def_value is:
+2025-06-20 10:43:05,804 - INFO - len(shap_values[0])_None
+2025-06-20 10:43:05,804 - INFO - (len(shap_values[0]), 6,1) is not in the self.def_set. Instrumenting
+2025-06-20 10:43:05,805 - INFO - Checking if (nbtest_tmpvar_0, 7,1) should be added.
+2025-06-20 10:43:05,805 - INFO - Current self.def_set: 
+2025-06-20 10:43:05,805 - INFO - set()
+2025-06-20 10:43:05,805 - INFO - The def_value is:
+2025-06-20 10:43:05,805 - INFO - nbtest_tmpvar_0_None
+2025-06-20 10:43:05,805 - INFO - (nbtest_tmpvar_0, 7,1) is not in the self.def_set. Instrumenting
+2025-06-20 10:43:05,805 - INFO - Checking if (nbtest_tmpvar_1, 8,1) should be added.
+2025-06-20 10:43:05,805 - INFO - Current self.def_set: 
+2025-06-20 10:43:05,805 - INFO - set()
+2025-06-20 10:43:05,805 - INFO - The def_value is:
+2025-06-20 10:43:05,805 - INFO - nbtest_tmpvar_1_None
+2025-06-20 10:43:05,805 - INFO - (nbtest_tmpvar_1, 8,1) is not in the self.def_set. Instrumenting
+2025-06-20 10:43:05,806 - INFO - Checking if (nbtest_tmpvar_2, 10,1) should be added.
+2025-06-20 10:43:05,806 - INFO - Current self.def_set: 
+2025-06-20 10:43:05,806 - INFO - set()
+2025-06-20 10:43:05,806 - INFO - The def_value is:
+2025-06-20 10:43:05,806 - INFO - nbtest_tmpvar_2_None
+2025-06-20 10:43:05,806 - INFO - (nbtest_tmpvar_2, 10,1) is not in the self.def_set. Instrumenting

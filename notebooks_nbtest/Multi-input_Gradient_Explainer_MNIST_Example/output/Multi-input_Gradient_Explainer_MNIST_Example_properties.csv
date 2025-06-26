@@ -1,0 +1,6 @@
+Variable,Assertion Type,Code Cell,Line Number
+len(shap_values),UNKNOWN__print_call,5,1
+len(shap_values[0]),UNKNOWN__print_call,6,1
+nbtest_tmpvar_0,PLOT__image_plot,7,1
+nbtest_tmpvar_1,PLOT__image_plot,8,1
+nbtest_tmpvar_2,PLOT__image_plot,10,1

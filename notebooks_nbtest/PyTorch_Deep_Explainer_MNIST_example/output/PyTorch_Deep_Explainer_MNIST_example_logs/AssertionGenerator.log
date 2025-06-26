@@ -1,0 +1,18 @@
+2025-06-20 18:03:17,789 - INFO - Creating mapping between the property and the instrumentated value.
+2025-06-20 18:03:17,791 - INFO - Checking the contents in /home/yy2282/project/shap/notebooks_nbtest/PyTorch_Deep_Explainer_MNIST_example/output/PyTorch_Deep_Explainer_MNIST_example_instrumentation.pkl
+2025-06-20 18:03:17,791 - INFO - {}
+2025-06-20 18:03:17,791 - INFO - 
+
+2025-06-20 18:03:17,793 - INFO - epoch at Cell 3 Line 38 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - batch_idx * len(data) at Cell 3 Line 38 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - len(train_loader.dataset) at Cell 3 Line 38 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - 100.0 * batch_idx / len(train_loader) at Cell 3 Line 38 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - loss.item() at Cell 3 Line 38 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - nbtest_tmpvar_0 at Cell 3 Line 44 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - test_loss at Cell 3 Line 55 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - correct at Cell 3 Line 55 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,793 - INFO - len(test_loader.dataset) at Cell 3 Line 55 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,794 - INFO - 100.0 * correct / len(test_loader.dataset) at Cell 3 Line 55 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,794 - INFO - nbtest_tmpvar_1 at Cell 3 Line 78 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,794 - INFO - nbtest_tmpvar_2 at Cell 6 Line 1 didn't find the instrumentation value. No matching code_cell and line_number or variable name.
+2025-06-20 18:03:17,794 - INFO - Checking self.mapping
