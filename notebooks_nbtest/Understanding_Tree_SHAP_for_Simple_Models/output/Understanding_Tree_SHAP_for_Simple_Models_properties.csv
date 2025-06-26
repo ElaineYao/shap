@@ -1,0 +1,27 @@
+Variable,Assertion Type,Code Cell,Line Number
+X.shape,UNKNOWN__ATTRIBUTE_ACCESS,3,4
+single_split_model,MODEL_ARCH__DecisionTreeRegressor,3,8
+graph,UNKNOWN__SINGLE_VAR,3,18
+df,DATASET__DataFrame,4,2
+df,UNKNOWN__SINGLE_VAR,4,15
+X.shape,UNKNOWN__ATTRIBUTE_ACCESS,5,4
+and_model,MODEL_ARCH__DecisionTreeRegressor,5,10
+graph,UNKNOWN__SINGLE_VAR,5,14
+df,DATASET__DataFrame,6,2
+df,UNKNOWN__SINGLE_VAR,6,15
+nbtest_tmpvar_0,UNKNOWN__mean,7,1
+X.shape,UNKNOWN__ATTRIBUTE_ACCESS,8,4
+or_model,MODEL_ARCH__DecisionTreeRegressor,8,11
+graph,UNKNOWN__SINGLE_VAR,8,15
+df,DATASET__DataFrame,9,2
+df,UNKNOWN__SINGLE_VAR,9,15
+X.shape,UNKNOWN__ATTRIBUTE_ACCESS,10,4
+xor_model,MODEL_ARCH__DecisionTreeRegressor,10,11
+graph,UNKNOWN__SINGLE_VAR,10,15
+df,DATASET__DataFrame,11,2
+df,UNKNOWN__SINGLE_VAR,11,15
+X.shape,UNKNOWN__ATTRIBUTE_ACCESS,12,4
+and_fb_model,MODEL_ARCH__DecisionTreeRegressor,12,11
+graph,UNKNOWN__SINGLE_VAR,12,15
+df,DATASET__DataFrame,13,2
+df,UNKNOWN__SINGLE_VAR,13,15

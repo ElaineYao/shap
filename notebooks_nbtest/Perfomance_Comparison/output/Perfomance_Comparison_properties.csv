@@ -1,0 +1,8 @@
+Variable,Assertion Type,Code Cell,Line Number
+gb_type,PRINT__print,14,6
+size_test,UNKNOWN__print,14,8
+result_df,DATASET__DataFrame,15,1
+nbtest_tmpvar_0,DATASET__to_csv,16,1
+result_df,DATASET__read_csv,17,1
+nbtest_tmpvar_1,DATASET__pivot_table,17,4
+nbtest_tmpvar_2,DATASET__pivot_table,18,1

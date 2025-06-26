@@ -1,0 +1,72 @@
+2025-06-20 18:01:17,106 - INFO - Checking if (epoch, 3,38) should be added.
+2025-06-20 18:01:17,106 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,107 - INFO - epoch_None
+2025-06-20 18:01:17,107 - INFO - (epoch, 3,38) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,107 - INFO - Checking if (batch_idx * len(data), 3,38) should be added.
+2025-06-20 18:01:17,107 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,107 - INFO - batch_idx * len(data)_None
+2025-06-20 18:01:17,107 - INFO - (batch_idx * len(data), 3,38) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,107 - INFO - Checking if (len(train_loader.dataset), 3,38) should be added.
+2025-06-20 18:01:17,107 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,107 - INFO - len(train_loader.dataset)_None
+2025-06-20 18:01:17,107 - INFO - (len(train_loader.dataset), 3,38) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,107 - INFO - Checking if (100.0 * batch_idx / len(train_loader), 3,38) should be added.
+2025-06-20 18:01:17,107 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,107 - INFO - 100.0 * batch_idx / len(train_loader)_None
+2025-06-20 18:01:17,107 - INFO - (100.0 * batch_idx / len(train_loader), 3,38) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,107 - INFO - Checking if (loss.item(), 3,38) should be added.
+2025-06-20 18:01:17,107 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,107 - INFO - loss.item()_None
+2025-06-20 18:01:17,107 - INFO - (loss.item(), 3,38) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,107 - INFO - Checking if (nbtest_tmpvar_0, 3,44) should be added.
+2025-06-20 18:01:17,107 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,107 - INFO - set()
+2025-06-20 18:01:17,107 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - nbtest_tmpvar_0_None
+2025-06-20 18:01:17,108 - INFO - (nbtest_tmpvar_0, 3,44) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,108 - INFO - Checking if (test_loss, 3,55) should be added.
+2025-06-20 18:01:17,108 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,108 - INFO - set()
+2025-06-20 18:01:17,108 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - test_loss_None
+2025-06-20 18:01:17,108 - INFO - (test_loss, 3,55) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,108 - INFO - Checking if (correct, 3,55) should be added.
+2025-06-20 18:01:17,108 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,108 - INFO - set()
+2025-06-20 18:01:17,108 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - correct_None
+2025-06-20 18:01:17,108 - INFO - (correct, 3,55) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,108 - INFO - Checking if (len(test_loader.dataset), 3,55) should be added.
+2025-06-20 18:01:17,108 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,108 - INFO - set()
+2025-06-20 18:01:17,108 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - len(test_loader.dataset)_None
+2025-06-20 18:01:17,108 - INFO - (len(test_loader.dataset), 3,55) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,108 - INFO - Checking if (100.0 * correct / len(test_loader.dataset), 3,55) should be added.
+2025-06-20 18:01:17,108 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,108 - INFO - set()
+2025-06-20 18:01:17,108 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - 100.0 * correct / len(test_loader.dataset)_None
+2025-06-20 18:01:17,108 - INFO - (100.0 * correct / len(test_loader.dataset), 3,55) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,108 - INFO - Checking if (nbtest_tmpvar_1, 3,78) should be added.
+2025-06-20 18:01:17,108 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,108 - INFO - set()
+2025-06-20 18:01:17,108 - INFO - The def_value is:
+2025-06-20 18:01:17,108 - INFO - nbtest_tmpvar_1_None
+2025-06-20 18:01:17,108 - INFO - (nbtest_tmpvar_1, 3,78) is not in the self.def_set. Instrumenting
+2025-06-20 18:01:17,164 - INFO - Checking if (nbtest_tmpvar_2, 6,1) should be added.
+2025-06-20 18:01:17,164 - INFO - Current self.def_set: 
+2025-06-20 18:01:17,164 - INFO - set()
+2025-06-20 18:01:17,164 - INFO - The def_value is:
+2025-06-20 18:01:17,164 - INFO - nbtest_tmpvar_2_None
+2025-06-20 18:01:17,164 - INFO - (nbtest_tmpvar_2, 6,1) is not in the self.def_set. Instrumenting
