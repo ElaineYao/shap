@@ -1,3 +1,0 @@
-2025-06-26 14:01:52,156 - INFO - Processing notebook: /home/yy2282/project/shap/notebooks_nbtest/Understanding_Tree_SHAP_for_Simple_Models/output/Understanding_Tree_SHAP_for_Simple_Models_processed.ipynb
-2025-06-26 14:01:52,157 - INFO - Building codeql database
-2025-06-26 14:01:58,534 - INFO - Running codeql query
