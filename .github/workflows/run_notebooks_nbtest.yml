@@ -45,7 +45,5 @@ jobs:
         run: |
           cd notebooks_assert
           pytest -v --nbtest Understanding_Tree_SHAP_for_Simple_Models_chebyshev_0.95_10.ipynb
-          rm -rf ./nbtest_logs
-          rm ./test_log.csv
-          rm ./test_nblog.ipynb
+
 
